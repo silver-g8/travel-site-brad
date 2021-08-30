@@ -1,1 +1,2 @@
-alert("Hello, นี่คือการทดสอบ. เพิ่ม ")
+import '../styles/styles.css'
+alert("Hello, นี่คือการทดสอบ. postcss ")
